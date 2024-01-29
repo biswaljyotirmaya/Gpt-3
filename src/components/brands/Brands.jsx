@@ -8,11 +8,11 @@ import shopify from "../../assets/shopify.png"
 const Brands = () => {
   return (
    <div className='flex justify-center my-12'>
-    <img className='px-4 h-7' src={google} alt="google" />
-    <img className='px-4 h-7' src={slack} alt="slack" />
-    <img className='px-4 h-7' src={atlassian} alt="atlassian" />
-    <img className='px-4 h-7' src={dropbox} alt="dropbox" />
-    <img className='px-4 h-7' src={shopify} alt="shopify" />
+    <a href="https://www.google.com/" target="_blank"><img className='px-4 h-7 cursor-pointer' src={google} alt="google" /></a>
+    <a href="https://slack.com/intl/en-in" target="_blank"><img className='px-4 h-7 cursor-pointer' src={slack} alt="slack" /></a>
+    <a href="https://www.atlassian.com/" target="_blank"><img className='px-4 h-7 cursor-pointer' src={atlassian} alt="atlassian" /></a>
+    <a href="https://www.dropbox.com/" target="_blank"><img className='px-4 h-7 cursor-pointer' src={dropbox} alt="dropbox" /></a>
+    <a href="https://www.shopify.com/in" target="_blank"><img className='px-4 h-7 cursor-pointer' src={shopify} alt="shopify" /></a>
    </div>
   )
 }

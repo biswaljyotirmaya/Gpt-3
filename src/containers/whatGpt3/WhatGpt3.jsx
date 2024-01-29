@@ -25,7 +25,7 @@ const WhatGpt3 = () => {
         <span className="text-3xl font-bold">
           The possibilities are beyond <br /> your imagination
         </span>
-        <span>Explore The Library</span>
+        <span className="cursor-pointer">Explore The Library</span>
       </div>
 
       <div className="flex justify-between">

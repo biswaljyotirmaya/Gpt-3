@@ -8,7 +8,7 @@ const Possibility = () => {
         <img src={Possibilityimg} alt="" />
       </div>
       <div>
-        <p className="text-[#71E5FF] leading-4 text-sm">
+        <p className="text-[#71E5FF] leading-4 text-sm cursor-pointer">
           Request Early Access to Get Started
         </p>
         <p className="bg-gradient-to-r from-[#AE67FA] to-[#F49867] text-transparent bg-clip-text font-bold text-2xl my-4">
@@ -21,7 +21,7 @@ const Possibility = () => {
           alteration boisterous the attachment. Party we years to order <br />{" "}
           allow asked of.
         </p>
-        <p className="text-[#FF8A71] mt-4">
+        <p className="text-[#FF8A71] mt-4 cursor-pointer">
           Request Early Access to Get Started
         </p>
       </div>

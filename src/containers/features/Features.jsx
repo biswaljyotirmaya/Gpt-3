@@ -8,7 +8,7 @@ const Features = () => {
           The Future is Now and <br /> You Just Need To Realize <br />
           It. Step into Future Today <br />& Make it Happen.
         </p>
-        <p className="text-orange-500 my-8 text-sm">
+        <p className="text-orange-500 my-8 text-sm cursor-pointer">
           Request Early Access to Get Started
         </p>
       </div>

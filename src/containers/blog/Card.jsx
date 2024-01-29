@@ -9,7 +9,7 @@ const Card = (props) => {
             <p className="text-xl font-bold text-[#FFFFFF]">
               {props.title}
             </p>
-            <p className="mt-10 text-white">Read Full Article</p>
+            <p className="mt-10 text-white cursor-pointer">Read Full Article</p>
           </div>
         </div>
   )
