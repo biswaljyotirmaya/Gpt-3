@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'/Gpt-3',
+  base:'/Gpt-3/',
   plugins: [react()],
 })
